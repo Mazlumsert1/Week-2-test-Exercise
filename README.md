@@ -10,7 +10,9 @@ Peer Review of your Triangle program
 
 The review: 
 1. Elegant code with the loops. 
+
 2. Make comments, it become easier to understand. 
+
 3. Try to half the execution of O(n^2) with the j = i + 1; in second loop.
 
 --------------------------------------------------------------------------------------------------------
