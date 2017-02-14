@@ -9,6 +9,7 @@ Reviewing Ismail Code: https://github.com/bigstepdenmark/Static-Test-Techniques-
 Peer Review of your Triangle program
 
 The review: 
+
 1. Elegant code with the loops. 
 
 2. Make comments, it become easier to understand. 
