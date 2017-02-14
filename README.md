@@ -12,8 +12,12 @@ The review:
 --------------------------------------------------------------------------------------------------------
 
 •	Camel case, navngivning af variabler(youToObject), arrays, metoder (toString ()) osv. 
+
 •	Java name convention, classes: UpperCamelCase, class members: lowerCamelCase.  
+
 •	Engelske navne.
+
 •	Forståelige navne f.eks. metoder, navngivningen skal her give mening, så den næste programmør kan forstå det.
+
 •	  Kommentar til koden, så den næstkommende får en bedre forståelse. 
 
