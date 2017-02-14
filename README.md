@@ -2,9 +2,12 @@
 
 Triangle Exercise: https://github.com/Mazlumsert1/Week-1-Test-Execise
 
+Peer Review of your Triangle program:
+
 Reviewing Ismail Code: https://github.com/bigstepdenmark/Static-Test-Techniques-Exercises
 
 Peer Review of your Triangle program
+
 The review: 
 1. Elegant code with the loops. 
 2. Make comments, it become easier to understand. 
